@@ -3,7 +3,7 @@
 #### Front-End-Developer
 My name is a Rohan. I'm a student as well as a Front-End-Developer. I try to my best for my work.
 
-Skills:  / Html / Css/Botstrap/Tailwind Css/Javascript/React/
+Skills:  /Html/Css/Botstrap/Tailwind Css/Javascript/React/
 
 - 🔭 I’m currently working on Online Marketplace 
 - 🌱 I’m currently learning Front-End-Developer 
