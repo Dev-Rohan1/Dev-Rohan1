@@ -1,8 +1,6 @@
 ![Front-End-Developer](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/387820907_334903679029501_5636560566660791961_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeELptl0sEasn5btVz1cawJTj44e8tvXhyGPjh7y29eHIcsh27Mo9GQpvBzB-kmxS_RxZqzsN4Dtx_kKp47e-bbl&_nc_ohc=KY1cKDjgIBQAX-0niAv&_nc_ht=scontent.fdac31-1.fna&oh=00_AfCkoN2hHcJEntLPppO98rLMQku92zl9BV2kgTM2Ww-viQ&oe=652D1254)
-
 ### Hi there 👋, I'm Dev Rohan
 #### Front-End-Developer
-
 My name is a Rohan. I'm a student as well as a Front-End-Developer. I try to my best for my work.
 
 Skills:  / Html / Css/Botstrap/Tailwind Css/Javascript/React/
@@ -27,8 +25,6 @@ Skills:  / Html / Css/Botstrap/Tailwind Css/Javascript/React/
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Rohan1&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dev-Rohan1)  
-
-![GitHub metrics](https://metrics.lecoq.io/Dev-Rohan1)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Dev-Rohan1)  
 
