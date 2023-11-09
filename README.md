@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tailwind Css**
 
-- 🤝 I’m looking for help with **Rront-End Development**
+- 🤝 I’m looking for help with **Front-End Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev-Rohan1](https://github.com/Dev-Rohan1)
 
