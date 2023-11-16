@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/400571112_1158114332260035_4194352944753310908_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEPrMmWhulMM6WMy724DcDH_9_9UBZPq7D_3_1QFk-rsOR03AjyZdhD62OzVgUT3qJZpKJQn6o6rIN5Dolbvvrs&_nc_ohc=JMIckAKrcCgAX97tZS4&_nc_ht=scontent.fdac138-1.fna&oh=00_AfCyYwRscZ1icYxPcUOxn60rUwdSs_eyIhVoMm0WmBkX7A&oe=655824D2" /> </p>
 
-Hi👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dev Rohan
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dev Rohan
 --------------------------
 I'm a Front-End Developer
 -------------------
