@@ -2,8 +2,8 @@
 <h3 align="center">I'm a Front-End Developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-rohan1&label=Profile%20views&color=0e75b6&style=flat" alt="dev-rohan1" /> </p>
-<a href="https://www.github.com/Dev-Rohan1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Dev-Rohan1?logo=github&style=for-the-badge&color=ffffff&labelColor=581c87" />
+
+<a href="https://www.github.com/Dev-Rohan1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Dev-Rohan1?logo=github&style=for-the badge&color=ffffff&labelColor=581c87" /> </a>
 
 - 🔭 I’m currently working on **Front-End Development**
 
