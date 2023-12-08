@@ -1,11 +1,9 @@
-<div align="center"> <img src="https://github.com/Dev-Rohan1/image/blob/main/1700381012194.jpg"> </div>
+<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
+<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<img width="100%"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-<h1 align="center">Hi 👋, I'm Dev Rohan</h1>
-<h3 align="center">I'm a Front-End Developer from Bangladesh.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-rohan1&label=Profile%20views&color=0e75b6&style=flat" alt="dev-rohan1" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 - 🔭 I’m currently working on **Front-End Development**
 
 - 🌱 I’m currently learning **React js**
