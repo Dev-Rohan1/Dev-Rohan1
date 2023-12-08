@@ -1,4 +1,4 @@
-<img alt="Coding" align="center" width="80%"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img width="100%"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 <h1 align="center">Hi 👋, I'm Dev Rohan</h1>
 <h3 align="center">I'm a Front-End Developer from Bangladesh.</h3>
 
