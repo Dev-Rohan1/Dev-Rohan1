@@ -1,5 +1,3 @@
-<img width="100%" src="https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/408650571_1171034554301346_3797787201751922446_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeFB_Oa-Dr2kXVo__jxN0KBvKul5OpnzjOsq6Xk6mfOM6-xqH01g8Rr08TiLQp97iF2op8unh22Tw2Dly3GVOzTQ&_nc_ohc=2fgazhv6VMgAX_lJEqv&_nc_ht=scontent.fdac138-2.fna&oh=00_AfCNGFrgKp3Vlo3l1xaVRGEF0MIoyvV4rXOkyxdsUIbSxQ&oe=6578EF98">
-
 <img  alt="Coding" width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h1 align="center">Hi 👋, I'm Dev Rohan</h1>
 <h3 align="center">I'm a Front-End Developer from Bangladesh.</h3>
@@ -7,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-rohan1&label=Profile%20views&color=0e75b6&style=flat" alt="dev-rohan1" /> </p>
 
 <a href="https://www.github.com/Dev-Rohan1" target="_blank" rel="noreferrer"><img
+                                                                               
 src="https://img.shields.io/github/followers/Dev-Rohan1?logo=github&style=for-the-badge&color=ffffff&labelColor=581c87" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-rohan1" alt="dev-rohan1" /></a> </p>
