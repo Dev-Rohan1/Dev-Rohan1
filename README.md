@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/Dev-Rohan1/banner/blob/main/Green%20White%20Orange%20Modern%20Geometric%20Online%20Training%20Banner.jpg?raw=true"> </div>
+<div align="center"> <img src="https://github.com/Dev-Rohan1/banner/blob/main/Green%20White%20Orange%20Modern%20Geometric%20Online%20Training%20Banner.png?raw=true"> </div>
 <h1 align="center">Hi 👋, I'm Dev Rohan</h1>
 <h3 align="center">I'm a Front-End Developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
