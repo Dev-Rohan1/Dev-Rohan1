@@ -1,6 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Dev-Rohan1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<hr>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There !+👋;+I'm Rohan.;+I'm a Frontend Developer.
 " />
@@ -10,6 +7,8 @@
 
 <hr>
 
+[![](https://visitcount.itsvg.in/api?id=Dev-Rohan1&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr>
 <div align="left">
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎 <br/> <br/>
 - 🌱 Trying to become an expert in Fullstack development ❤ <br/> <br/>
