@@ -1,43 +1,59 @@
-<div align="center"> <img src="https://github.com/Dev-Rohan1/banner/blob/main/Green%20White%20Orange%20Modern%20Geometric%20Online%20Training%20Banner.png?raw=true"> </div>
-<h1 align="center">Hi 👋, I'm Dev Rohan</h1>
-<h3 align="center">I'm a Front-End Developer from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+[![](https://visitcount.itsvg.in/api?id=Dev-Rohan1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
-- 🔭 I’m currently working on front-end development
+<hr>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There !+👋;+I'm Rohan.;+I'm a Frontend Developer.
+" />
+</h1>
 
-- 🌱 I’m currently learning **Node js**
+<img src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif"/>
 
-- 🤝 I’m looking for help with **Front-End Development**
+<hr>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dev-Rohan1](https://github.com/Dev-Rohan1)
+<div align="left">
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎 <br/> <br/>
+- 🌱 Trying to become an expert in Fullstack development ❤ <br/> <br/>
+- 💻 I love exploring new tech stacks and building cool stuff.<br/><br/>
+- 📰 Reading tech documentation whenever possible. <br/> <br/>
+- 🎯 2024 Goals: Fullstack developer <br/> <br/>
+- ⚡ Fun Fact: I want to learn everything 🤣 <br/> <br/>
+ </div>
+ <hr>
 
-- 📝 I regularly write articles on [https://github.com/Dev-Rohan1?tab=repositories](https://github.com/Dev-Rohan1?tab=repositories)
+## <img  src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25">Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true" height="33px"/>
 
-- 💬 Ask me about **Front-End Development**
+<div align="center">
 
-- 📫 How to reach me **mdrohanulhaquerohan368@gmail.com**
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/rhrohan2021)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahinur.jsx/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Rohan1)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rohanul-haque/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.rohan2024@gmail.com)
 
-- 📄 Know about my experiences [https://github.com/Dev-Rohan1](https://github.com/Dev-Rohan1)
+</div>
 
-- ⚡ Fun fact **Programming is like magic**
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/rhrohan2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rhrohan2021" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mdrohanulhaquer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdrohanulhaquer1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dev rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dev rohan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dev-rohan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev-rohan1" height="30" width="40" /></a>
-</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+ <hr/>
+ 
+<h2 align="left">💻 Languages-Frameworks-Tools 🧑‍💻</h2> 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,sass,javascript,vite,react,mui,bash,git,github,figma," />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,nextjs,netlify	" /><br>
+</div>
+<br/>
+<hr/>
+# 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-rohan1&show_icons=true&locale=en&layout=compact" alt="dev-rohan1" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Dev-Rohan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Rohan1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rohan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-rohan1&show_icons=true&locale=en" alt="dev-rohan1" /></p>
+<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rohan1&" alt="dev-rohan1" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-rohan1" alt="dev-rohan1" /></a> </p>
+<div align="left">
+  <h2>🧑‍💻 My Contributions 🧑‍💻</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
