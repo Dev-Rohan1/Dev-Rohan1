@@ -8,6 +8,7 @@
 <hr>
 
 [![](https://visitcount.itsvg.in/api?id=Dev-Rohan1&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <hr>
 <div align="left">
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎 <br/> <br/>
@@ -19,7 +20,7 @@
  </div>
  <hr>
 
-## <img  src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25">Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true" height="33px"/>
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true" height="33px"/>
 
 <div align="center">
 
