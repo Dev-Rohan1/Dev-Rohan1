@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I+am+Rohan...;I'm+a+Frontend+Deveper!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I+am+Rohan..;I'm+a+Frontend+Deveper...&center=true&size=30">
   </a>
 </h1>
 
@@ -42,8 +42,9 @@
  
 <h2 align="left">💻 Languages-Frameworks-Tools 🧑‍💻</h2> 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,sass,javascript,vite,react,mui,bash,git,github,figma," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,nextjs,netlify	" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,sass,javascript,vite,react,mui,bash,git,github,figma, " />
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,firebase,bootstrap,nextjs,netlify " />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,nextjs,netlify	" />
 </div>
 <br/>
 <hr/>
