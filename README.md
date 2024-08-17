@@ -47,7 +47,7 @@
 </div>
 <br/>
 <hr/>
-# 📊 GitHub Stats:
+ <h2>📊 GitHub Stats</h2> 
 
 ![](https://github-readme-stats.vercel.app/api?username=Dev-Rohan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Rohan1&theme=dark&hide_border=false)<br/>
