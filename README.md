@@ -42,7 +42,8 @@
  
 <h2 align="left">💻 Languages-Frameworks-Tools 🧑‍💻</h2> 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,sass,javascript,vite,react,mui,bash,git,github,figma, " />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,sass,javascript,vite,react,mui,bash,git,github,figma " />
+  <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,firebase,nextjs,netlify " />
 </div>
 <br/>
