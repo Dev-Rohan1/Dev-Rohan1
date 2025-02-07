@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Dev-Rohan1/banner/blob/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.jpg?raw=true" alt="Coding Banner - Full Stack Developer" />
+  <img src="https://github.com/Dev-Rohan1/banner/blob/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png?raw=true" alt="Coding Banner - Full Stack Developer" />
 </p>
 
 <hr>
