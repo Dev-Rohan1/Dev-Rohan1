@@ -19,7 +19,7 @@
 <div align="left">
   
 - 🔭 **Focusing on Software Engineering** 🛠️  
-- 🌱 **Learning** to become an expert in **Fullstack Development** ❤️  
+- 🌱 **Learning** to become an expert in **Full Stack Development** ❤️  
 - 💻 **Exploring new tech stacks** and building **cool stuff** 🚀  
 - 📰 **Reading tech documentation** whenever possible 📚  
 - 🎯 **2026 Goals**: Become a **Software Engineer** 🎯  
