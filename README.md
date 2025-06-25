@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Dev-Rohan1/banner/e8c0f5b175c0e8ebdfdea7ba879697ec71b38486/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png?token=BAS2RQK5WWXA4L3WBNY6VH3ILQXPI" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/Dev-Rohan1/banner/e8c0f5b175c0e8ebdfdea7ba879697ec71b38486/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png?token=BAS2RQK5WWXA4L3WBNY6VH3ILQXPI" alt="Banner" />
 </p>
 
 <hr>
