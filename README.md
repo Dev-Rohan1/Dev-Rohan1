@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Dev-Rohan1/banner/blob/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png?raw=true" alt="Coding Banner - Full Stack Developer" />
+  <img src="" alt="Coding Banner - Full Stack Developer" />
 </p>
 
 <hr>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Dev-Rohan1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/Dev-Rohan1/banner/refs/heads/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png?token=GHSAT0AAAAAADGJDP4UXVI2FNDUIZOUPPNS2C4FEJQ" alt="Profile Views" />
 </p>
 
 <hr>
