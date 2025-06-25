@@ -1,13 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=00FF00&lines=Hi,+There!+👋;I'm+Rohan...;Full+Stack+Developer+🧑‍💻" alt="Typing SVG" style="line-height: 1.2; width: 100%;" />
 </h1>
-
-<p align="center">
-  <img src="" alt="Coding Banner - Full Stack Developer" />
-</p>
-
 <hr>
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/Dev-Rohan1/banner/refs/heads/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png?token=GHSAT0AAAAAADGJDP4UXVI2FNDUIZOUPPNS2C4FEJQ" alt="Profile Views" />
 </p>
