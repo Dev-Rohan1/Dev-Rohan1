@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="https://github.com/Dev-Rohan1/banner/blob/main/github-banner.png?raw=true" alt="Banner" />
+  <img src="https://res.cloudinary.com/dntarupgf/image/upload/v1751729078/github-banner_csrdof.png" alt="Banner" />
 </p>
 
 <hr>
