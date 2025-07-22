@@ -51,8 +51,8 @@
 
 <div align="center">
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Rohan1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rohan1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanul-haque&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanul-haque&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
