@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="https://res.cloudinary.com/dntarupgf/image/upload/v1751729078/github-banner_csrdof.png" alt="Banner" />
+  <img src="https://res.cloudinary.com/dntarupgf/image/upload/v1753195021/Yellow_and_Blue_Bold_Geometric_Software_Developer_LinkedIn_Banner_t9tfmi.png" alt="Banner" />
 </p>
 
 <hr>
